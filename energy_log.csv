@@ -1,0 +1,41 @@
+time,device,is_on,consumption_watt
+2026-05-07 10:27:44,Lamp,False,0
+2026-05-07 10:27:44,Computer,True,120
+2026-05-07 10:27:44,Air Conditioner,True,900
+2026-05-07 10:27:44,Printer,False,0
+2026-05-07 10:27:45,Lamp,False,0
+2026-05-07 10:27:45,Computer,False,0
+2026-05-07 10:27:45,Air Conditioner,False,0
+2026-05-07 10:27:45,Printer,False,0
+2026-05-07 10:27:46,Lamp,True,10
+2026-05-07 10:27:46,Computer,True,120
+2026-05-07 10:27:46,Air Conditioner,True,900
+2026-05-07 10:27:46,Printer,True,300
+2026-05-07 10:27:47,Lamp,False,0
+2026-05-07 10:27:47,Computer,False,0
+2026-05-07 10:27:47,Air Conditioner,True,900
+2026-05-07 10:27:47,Printer,False,0
+2026-05-07 10:27:48,Lamp,False,0
+2026-05-07 10:27:48,Computer,True,120
+2026-05-07 10:27:48,Air Conditioner,True,900
+2026-05-07 10:27:48,Printer,True,300
+2026-05-07 10:27:49,Lamp,False,0
+2026-05-07 10:27:49,Computer,True,120
+2026-05-07 10:27:49,Air Conditioner,False,0
+2026-05-07 10:27:49,Printer,False,0
+2026-05-07 10:27:50,Lamp,True,10
+2026-05-07 10:27:50,Computer,True,120
+2026-05-07 10:27:50,Air Conditioner,True,900
+2026-05-07 10:27:50,Printer,False,0
+2026-05-07 10:27:51,Lamp,True,10
+2026-05-07 10:27:51,Computer,True,120
+2026-05-07 10:27:51,Air Conditioner,True,900
+2026-05-07 10:27:51,Printer,True,300
+2026-05-07 10:27:52,Lamp,True,10
+2026-05-07 10:27:52,Computer,False,0
+2026-05-07 10:27:52,Air Conditioner,True,900
+2026-05-07 10:27:52,Printer,False,0
+2026-05-07 10:27:53,Lamp,True,10
+2026-05-07 10:27:53,Computer,False,0
+2026-05-07 10:27:53,Air Conditioner,False,0
+2026-05-07 10:27:53,Printer,False,0
